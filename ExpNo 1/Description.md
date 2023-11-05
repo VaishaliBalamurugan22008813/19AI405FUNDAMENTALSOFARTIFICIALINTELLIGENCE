@@ -96,7 +96,8 @@ F H <BR>
 <hr>
 <h3>Output</h3>
 <hr>
-![image](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/6f0dfc48-dadc-4ca4-aa5b-32b638ffe3c8)
+
+![Screenshot (8)](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/a6ec3721-a438-48a0-983e-a55b6af32885)
 
 <hr>
 
