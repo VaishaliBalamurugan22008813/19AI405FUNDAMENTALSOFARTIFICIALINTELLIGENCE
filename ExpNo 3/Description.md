@@ -161,7 +161,7 @@ print(graph)
 aStarAlgo('S', 'G')
 
 ```
-<h2>Sample Input</h2>
+<h2>Input</h2>
 <hr>
 10 14 <br>
 A B 6 <br>
@@ -189,9 +189,9 @@ H 3 <br>
 I 1 <br>
 J 0 <br>
 <hr>
-<h2>Sample Output</h2>
+<h2>Output</h2>
 <hr>
-Path found: ['A', 'F', 'G', 'I', 'J']
+![ai3out](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/29a74428-e79a-45a2-b086-8531ad9e21cb)
 
 
 <hr>
@@ -201,23 +201,4 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
 
-<hr>
-<h2>Sample Input</h2>
-<hr>
-6 6 <br>
-A B 2 <br>
-B C 1 <br>
-A E 3 <br>
-B G 9 <br>
-E D 6 <br>
-D G 1 <br>
-A 11 <br>
-B 6 <br>
-C 99 <br>
-E 7 <br>
-D 1 <br>
-G 0 <br>
-<hr>
-<h2>Sample Output</h2>
-<hr>
-Path found: ['A', 'E', 'D', 'G']
+
