@@ -40,7 +40,7 @@ Feedback is provided in terms of heuristic function
 
 <hr>
 <h2>Program<h2>
- ```python
+```Python
 import random
 import string
 def generate_random_solution(answer):
@@ -77,7 +77,9 @@ def SimpleHillClimbing():
 #solution=generate_random_solution(answer)
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
+<h3>
 ```
+
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
