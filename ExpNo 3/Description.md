@@ -193,6 +193,7 @@ J 0 <br>
 <hr>
 ![ai3out](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/29a74428-e79a-45a2-b086-8531ad9e21cb)
 
+![ai3out](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/6f0653be-af43-45ef-84a7-44e3ee04a76b)
 
 <hr>
 <h2>Sample Graph II</h2>
