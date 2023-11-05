@@ -52,7 +52,7 @@
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <hr>
-<h2>Program<h2>
+<h3>Program<h3>
 ```
     from collections import defaultdict
 H_dist ={}
