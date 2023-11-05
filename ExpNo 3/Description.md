@@ -191,8 +191,6 @@ J 0 <br>
 <hr>
 <h2>Output</h2>
 <hr>
-![ai3out](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/29a74428-e79a-45a2-b086-8531ad9e21cb)
-
 ![ai3out](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/6f0653be-af43-45ef-84a7-44e3ee04a76b)
 
 <hr>
@@ -200,6 +198,8 @@ J 0 <br>
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
+<h2>Result</h2>
+Thus the program for implementing Astar search is successfully implemented.
 
 
 
