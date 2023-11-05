@@ -118,7 +118,7 @@ traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 ```
 <hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 7 9 <BR>
 A B <BR>
@@ -133,12 +133,12 @@ G F <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
+![ai2out1](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/ee9a7913-f758-4360-b423-8deaf2db594c)
 
 <hr>
 
 <hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 5 6 <BR>
 0 1 <BR>
@@ -150,7 +150,8 @@ G F <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+![ai2out2](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/84a578d9-fe6f-41af-9f54-f3d1716f0aee)
+
 <hr>
 <h3>Result:</h3>
 <hr>
