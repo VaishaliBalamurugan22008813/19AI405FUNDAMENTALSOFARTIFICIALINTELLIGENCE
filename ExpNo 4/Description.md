@@ -39,7 +39,7 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 <hr>
-<h2>Program
+<h2>Program</h2>
 ```Python
 import random
 import string
@@ -78,7 +78,7 @@ def SimpleHillClimbing():
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
 ```
-                 </h2>
+                
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
