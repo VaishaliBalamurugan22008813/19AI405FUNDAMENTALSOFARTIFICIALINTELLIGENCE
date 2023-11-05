@@ -190,9 +190,8 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Output</h2>
-<hr>
-![image](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/4b39922c-fa8c-4735-b8cd-7757ea88a044)
 
+![ai3out](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/e517dea8-4e94-4693-81e6-21be77094bfb)
 
 
 
