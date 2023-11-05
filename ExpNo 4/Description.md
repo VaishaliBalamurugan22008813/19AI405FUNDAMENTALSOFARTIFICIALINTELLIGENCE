@@ -77,7 +77,6 @@ def SimpleHillClimbing():
 #solution=generate_random_solution(answer)
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
-<h3>
 ```
 
 <h2>Sample Input and Output</h2>
