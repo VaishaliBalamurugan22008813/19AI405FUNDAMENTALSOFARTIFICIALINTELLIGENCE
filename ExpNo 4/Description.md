@@ -80,9 +80,9 @@ SimpleHillClimbing()
 ```
                 
 <h2>Sample Input and Output</h2>
-```
+
 <h2>Sample String:</h2> Artificial Intelligence
-<h2>Output:</h2>
+<h2>Output:```</h2>
 Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
 Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
 Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
