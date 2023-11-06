@@ -150,7 +150,8 @@ G F <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-![ai2op1](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/912b21f8-de2d-4356-a513-b44f9851c85c)
+![ai2op](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/a68f18b4-be39-4cc8-9ac7-45f9a259e55e)
+
 
 <hr>
 <h3>Result:</h3>
