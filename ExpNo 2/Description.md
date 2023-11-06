@@ -129,13 +129,9 @@ D E <BR>
 D G <BR>
 G F <BR>
 <hr>
-<h3>Sample Output</h3>
-<hr>
-![image](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/c111c431-c55e-4725-a67a-23206337ff16)
+## Sample Output:
 
-
-
-<hr>
+![Uploading ai2op.png…]()
 
 <hr>
 <h3>Input</h3>
