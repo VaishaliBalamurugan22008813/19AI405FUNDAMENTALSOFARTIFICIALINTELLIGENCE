@@ -131,7 +131,7 @@ G F <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-![ai2out1](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/ee9a7913-f758-4360-b423-8deaf2db594c)
+![ai2op](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/f3486d53-8458-43ef-a290-4997e3790247)
 
 <hr>
 
@@ -148,7 +148,7 @@ G F <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-![ai2out2](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/84a578d9-fe6f-41af-9f54-f3d1716f0aee)
+![ai2op1](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/912b21f8-de2d-4356-a513-b44f9851c85c)
 
 <hr>
 <h3>Result:</h3>
