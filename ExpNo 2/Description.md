@@ -129,9 +129,11 @@ D E <BR>
 D G <BR>
 G F <BR>
 <hr>
-## Sample Output:
+##Output:
 
-![Uploading ai2op.png…]()
+
+![image](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/1ad8d3fa-e528-4e6e-a8a3-00a30256b1da)
+
 
 <hr>
 <h3>Input</h3>
@@ -144,9 +146,13 @@ G F <BR>
 2 4 <BR>
 3 4 <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 <hr>
-![ai2op](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/a68f18b4-be39-4cc8-9ac7-45f9a259e55e)
+
+
+
+![image](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/f3adec78-f1ce-4d01-90de-d0fbe67e54bf)
+
 
 
 <hr>
