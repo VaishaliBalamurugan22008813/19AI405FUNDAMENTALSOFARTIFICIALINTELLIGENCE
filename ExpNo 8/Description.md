@@ -139,16 +139,15 @@ while(player):
         
         
 
-    ```
+```
 <hr>
 <h1>Sample Input and Output:</h1>
-<hr>
 
 
 ![Screenshot (17)](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/fa434500-ef35-43fc-8e5f-05053e4b4e80)
 
-</hr>
 
-<h1> Result:
+
+<h1> Result:</h1>
 
 Thus ,the Wumpus World Problem using Python demonstrating Inferences from Propositional Logic is solved
