@@ -107,6 +107,10 @@ else:
 ```
 <h2>Sample Input and Output:</h2>
 
+
+
+![Screenshot (16)](https://github.com/VaishaliBalamurugan22008813/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119390134/ea7490ab-1969-4532-b741-125a69cb91b8)
+
 <hr>
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
